@@ -1,12 +1,12 @@
-# Taller de Reproducibilidad  
+# Reproducibility Workshop
 [Fernando Hoces de la Guardia](http://fhoces.github.io)
 
 UC Berkeley ([Berkeley Initative for Transparency in the Social Sciences](http://www.bitss.org))
 
-Gracias a [Garret Christensen](http://www.ocf.berkeley.edu/~garret) por proveer el material original para este entrenamiento.
+Thanks to [Garret Christensen](http://www.ocf.berkeley.edu/~garret) for providing the original material for this training.
 
-### Materiales para el taller de reproducibilidad
-Las instrucciones requeridas para instalar el software necesario para el taller se encuentran [aquí](https://github.com/fhoces/BITSS_SPANISH/tree/master/2-Registros#instalación-de-software).
+### Materials for the workshop on reproducibility
+The instructions to install the software used in the workshop can be found [here](https://github.com/fhoces/BITSS_SPANISH/tree/master/2-Registros#instalación-de-software).
 
 Los materiales del seminario y el taller se encuentran en este repositorio. El repositorio contiene carpetas con la siguiente información:
 
