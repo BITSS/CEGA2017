@@ -1,42 +1,40 @@
-# INSP Reproducibility Training
-by [Garret Christensen](http://www.ocf.berkeley.edu/~garret)
+# Taller de Reproducibilidad  
+[Fernando Hoces de la Guardia](http://fhoces.github.io)
 
-UC Berkeley ([Berkeley Initative for Transparency in the Social Sciences](http://www.bitss.org), [Berkeley Institute for Data Science](http://bids.berkeley.edu))
-### Materials for the May 2017 Reproducibility Training at INSP, Mexico
+UC Berkeley ([Berkeley Initative for Transparency in the Social Sciences](http://www.bitss.org))
 
-Software installation is required. Instructions are [here](https://github.com/BITSS/IMEBESS2017). Please do your best to install the programs *before* coming to the workshop, though help will be available if you run into trouble.
+Gracias a [Garret Christensen](http://www.ocf.berkeley.edu/~garret) por proveer el material original para este entrenamiento.
 
-1-Intro has slides to introduce researchers to the problems of publication bias and p-hacking.
+### Materiales para el taller de reproducibilidad
+Las instrucciones requeridas para instalar el software necesario para el taller se encuentran [aquí](https://github.com/fhoces/BITSS_SPANISH/tree/master/2-Registros#instalación-de-software).
 
-2-Reg-and-PAP has slides on the partial solutions of registration and pre-analysis plans.
+Los materiales del seminario y el taller se encuentran en este repositorio. El repositorio contiene carpetas con la siguiente información:
 
-3-Repro-Code has a README and slides on reproducible coding strategy.
+1-Presentacion tiene la presentación del seminario.
 
-4-Tools-Intro has slides on reproducible workflow software tools.
+2-Registros contiene las instrucciones para el primer modulo del taller de hoy.
 
-5-[fill in the blank] have materials for doing dynamic (automatically updated) documents in R and Stata.
+3-RMarkdown contiene las instrucciones para el segundo modulo sobre Documentos Dinámicos.
 
-6-VersionControl has an intro to version control with Git/Github.
+4-VersionControl contiene la información para el tercer y ultimo modulo sobre Git/Github.
 
-Additional materials are in the X-folders.
+Material adicional se puede encontrar en las carpetas-x.
 
 
 
-Workshop Agenda
+Agenda para el taller
 -----------
+Dia 1
 
-Time | Session |
+Hora | Sesión |
 ------------ | ------------- |
-**Day 1** | Wednesday, May 3 |
-9:00-9:30 | Welcome and introductions |
-9:30-10:45 |Overview of transparency and reproducibility in social science research |
-10:45-11:00 | COFFEE BREAK |
-11:00-12:00 | Registration & Pre-Analsysis Plans (AEA Registry, OSF) |
-12:00-1:00pm | LUNCH BREAK |
-1:00-2:00 | Reproducible Coding Stategies |
-**Day 2** | Thursday, May 4 |
-9:00-10:45 | Dynamic Documents (Stata, R)
-10:45-11:00 | COFFEE BREAK |
-11:00-12:00 | Version Control with Git/Github Part 1|
-12:00-1:00 | LUNCH BREAK |
-1:00-2:00 | Version Control with Git/Github Part 2|
+12:00PM-1:30PM | Registros con el AEA registry y con el Open Science Framework|
+
+
+Dia 2
+
+Hora | Sesión |
+------------ | ------------- |
+9:00AM-10:30AM | Documentos Dinámicos con R (utilizando RMarkdown + breve referencia a Stata) |
+10:30AM-10:45AM | COFFEE BREAK |
+11:00-12:15PM | Control de Versiones con Git y GitHub |
