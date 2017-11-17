@@ -8,6 +8,8 @@ Thanks to [Garret Christensen](http://www.ocf.berkeley.edu/~garret) for providin
 ### Materials for the workshop on reproducibility
 The instructions to install the software used in the workshop can be found [here](https://github.com/fhoces/BITSS_SPANISH/tree/master/2-Registros#instalación-de-software).
 
+
+All the materials for the workshop are in this repository. 
 Los materiales del seminario y el taller se encuentran en este repositorio. El repositorio contiene carpetas con la siguiente información:
 
 1-Presentacion tiene la presentación del seminario.
